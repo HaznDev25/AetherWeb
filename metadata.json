@@ -1,0 +1,7 @@
+{
+  "name": "SwiftMove Logistics",
+  "description": "A high-conversion, mobile-first logistics and delivery landing page designed for speed, reliability, and modern user experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
